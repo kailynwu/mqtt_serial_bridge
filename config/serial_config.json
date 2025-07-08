@@ -1,0 +1,9 @@
+[
+  {
+    "system": "Linux",
+    "selected_port": "/dev/ttyACM0",
+    "baudrate": 115200,
+    "send_topic": "com1send",
+    "receive_topic": "com1receive"
+  }
+]
